@@ -1,4 +1,5 @@
 <script setup lang="ts">
+//try to development
 import { computed, reactive, ref } from 'vue'
 import Draggable from 'vuedraggable'
 import type { Card, List } from '@/types'
